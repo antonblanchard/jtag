@@ -95,10 +95,6 @@
 //
 //
 
-// synopsys translate_off
-`include "timescale.v"
-// synopsys translate_on
-
 // Top module
 module tap_top #(parameter
                 // 0001             version
